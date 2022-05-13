@@ -10,3 +10,6 @@ git config --list - просмотр файла конфигурации
 git status - показать статус файлов
 git add . - добавить все файлы
 git commit -a -m"add  file" - сделать коммит
+
+git remote add NAME URL
+git push -u NAME main
