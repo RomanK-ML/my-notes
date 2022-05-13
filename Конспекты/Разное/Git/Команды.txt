@@ -1,0 +1,12 @@
+git help - справка
+
+git init - инициализация директории git
+
+git cinfig --global user.name "NAME" -  инициализация имени пользователя
+git cinfig --global user.email "EMAIL@email.com" -  инициализация email пользователя
+
+git config --list - просмотр файла конфигурации
+
+git status - показать статус файлов
+git add . - добавить все файлы
+git commit -a -m"add  file" - сделать коммит
