@@ -25,4 +25,3 @@ git chekout NAME - перейти на ветку NAME
 git chekout -b NAME - создать и перейти в ветку NAME
 
 
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC4IzOyklgNxx/Yl44+zZNSiOg962WlMb8Qyha90Pj35KwKJz3D8fxX6OwdIVOgixwX3pBFiyjHILjj+Jx+TeqFCUe78m4zl61eJBxm59HqeBzg91jBd1Cfpgr3SFQSul+p97r58Ps926+ZwcbXG2ykzw8WUdkR6lD+uv0fYQa/xVZ/Fz7e4kqgv/sHWyvASGZFGzU1twzL5QdV27pJXVibElQMoxDQkylYunz+Ij422E9SrWpsQ+UWMxEwN5u3OfWu9/8anc/2l7FlFj8KnImRxhKJij51Q3OqBG5Gq3m/exH7jzpdI2s5gPO/tVG9bLOloWrabdOGspRllTVRZ/HFRfka/FehiuREN/p38BtqUWnC3yz/i6inCkJsq/iYDi1l/AEpOM9uJoztJNQCM8O44X+Jl8EXIzlrXgl9TZQzCZW2TE5A8my2UcP+BXQpsxJQzM2+iGU7Ycj6njDunBoAeGCsKJRBtCQwvQth9d1Mfxc4hMV3vqDobNkJ52hrYE8= Kud-Roman-info@yandex.ru
